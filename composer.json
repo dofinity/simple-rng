@@ -1,0 +1,19 @@
+{
+    "name": "dofinity/simple_rng",
+    "description": "A simple implementation of Random Number Generator.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eyal Shalev",
+            "email": "eyal@dofinity.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dofinity\\SimpleRNG\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
